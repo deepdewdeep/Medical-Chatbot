@@ -7,22 +7,22 @@ Clone the repository
 
 ```bash
 Project repo: https://github.com/
-'''
+```
 
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
 conda create -n mbt python=3.10 -y
-'''
+```
 
-'''bash
+```bash
 conda activate mbt
-'''
+```
 
 ### STEP 02- install the requirements
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 
 ### Create a `.env` file in the root directory and add your Pinecone & openai
 credentials as follows:
@@ -30,22 +30,22 @@ credentials as follows:
 ```ini
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-'''
+```
 
-'''bash
+```bash
 #run the following command to store embeddings to pinecone
 python python store_index.py
-'''
+```
 
-'''bash
+```bash
 #Then start the application by running
 python app.py
-'''
+```
 
 finally,
-'''bash
+```bash
 open up localhost:
-'''
+```
 
 ## Tech Stack
 
