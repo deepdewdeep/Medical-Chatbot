@@ -12,11 +12,11 @@ Project repo: https://github.com/
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n mbot python=3.10 -y
+conda create -n mbt python=3.10 -y
 '''
 
 '''bash
-conda activate mbot
+conda activate mbt
 '''
 
 ### STEP 02- install the requirements
