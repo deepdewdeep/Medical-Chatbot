@@ -1,5 +1,8 @@
 # Medical-Chatbot
 
+#Demo
+![alt text](image.png)
+
 # How to run?
 ### STEPS:
 
