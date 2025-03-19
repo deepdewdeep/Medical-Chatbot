@@ -50,7 +50,7 @@ finally,
 open up localhost:
 ```
 
-## Tech Stack
+# Tech Stack
 
 - **Python 3.10**  
   Used as the primary programming language for this chatbot.
